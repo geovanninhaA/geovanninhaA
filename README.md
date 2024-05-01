@@ -9,7 +9,7 @@ Atualmente eu estou cursando um **curso técnino de Desenvolvimento de Sistemas*
 - 🌱 Estou aprendendo JavaScript e Python.
 - ⚡ No tempo livre eu danço, escrevo poemas e desenho! (falta só o tempo livre).
 
-- 📫 Para entrar em contato comigo é so seguir os seguintes links! 😸⬇️
+- 📫 Para entrar em contato comigo é só seguir os seguintes links! 😸⬇️
 <br><br>
 
     [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geovannaantunescorrea/)
