@@ -35,3 +35,5 @@ Atualmente eu estou cursando **Ciência da Computação** na UNICID e sou Técni
     <img align="center" alt=mysql src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt=flask src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
+> 💡 *“A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.”* — **Albert Einstein**  
+
