@@ -1,7 +1,7 @@
 ### Oi! Eu sou a **_Geovanna Antunes_**, prazer! 😸
 
 Eu decidi vir me apresentar!
-<br>
+
 Atualmente eu estou cursando **Ciência da Computação** na UNICID e sou Técnica em **Análise e Desenvolvimento de Sistemas** pelo SENAI :
 <br>
 - 🔭 Estou em formação como desenvolvedora **full-stack**, com conhecimentos em **Front-end e Back-end**. 
