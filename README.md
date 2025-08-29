@@ -26,7 +26,7 @@ Atualmente eu estou cursando **Ciência da Computação** na UNICID e sou Técni
 <br>
 
 <p align="center">  
-💻 **Tecnologias com as quais desenvolvi** 💻  
+**Tecnologias com as quais desenvolvi**
 </p>
 
 <div style="display: inline-block"><br/>
