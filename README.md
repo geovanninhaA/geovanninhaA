@@ -25,9 +25,8 @@ Atualmente eu estou cursando **Ciência da Computação** na UNICID e sou Técni
 <br>
 <br>
 
-<p align="center">  
-**Tecnologias com as quais desenvolvi**
-</p>
+**💻 Tecnologias com as quais desenvolvi 💻**
+
 
 <div style="display: inline-block"><br/>
     <img align="center" alt=html5 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
