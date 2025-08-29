@@ -3,10 +3,10 @@
 
 Eu decidi vir me apresentar!
 
-Atualmente eu estou cursando um **curso técnino de Desenvolvimento de Sistemas** :
+Atualmente eu estou cursando **Ciência da Computação** na UNICID e sou Técnica em **Análise e Desenvolvimento de Sistemas** pelo SENAI :
 <br>
-- 🔭 Estou trabalhando com Front e Back-end. 
-- 🌱 Estou aprendendo JavaScript e Python.
+- 🔭 Estou em formação como desenvolvedora **full-stack**, com conhecimentos em **Front-end e Back-end**. 
+- 🌱 Já trabalhei com JavaScript, Python, Flask, APIs e SQL.
 - ⚡ No tempo livre eu danço, escrevo poemas e desenho! (falta só o tempo livre).
 
 - 📫 Para entrar em contato comigo é só seguir os seguintes links! 😸⬇️
@@ -25,7 +25,9 @@ Atualmente eu estou cursando um **curso técnino de Desenvolvimento de Sistemas*
 <br>
 <br>
 
-_____________ **Tecnologias que eu uso no meu dia** _____________ 
+<p align="center">  
+💻 **Tecnologias com as quais desenvolvi** 💻  
+</p>
 
 <div style="display: inline-block"><br/>
     <img align="center" alt=html5 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
